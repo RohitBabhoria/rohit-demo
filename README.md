@@ -1,6 +1,6 @@
 # rohit-demo
 This is my first Git Repository.
 <br>
-Auther- rohit babhoria
+Auther- rohit kumar
 <br>
 age=23
